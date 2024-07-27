@@ -3,4 +3,3 @@ seconady branch is added
 this is for testing branchconflict from sub branch
 last line added for test merge conflict from master branch
 line no 5
-
